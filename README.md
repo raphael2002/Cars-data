@@ -1,2 +1,2 @@
 # Cars-data
-Cleaning, examining and analyzing cars data
+Cleaning, examining cars data
