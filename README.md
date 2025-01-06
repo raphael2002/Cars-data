@@ -1,2 +1,2 @@
 # Cars-data
-Cleaning, examining cars data
+Cleaning and examining cars data
